@@ -1,0 +1,8 @@
+# robots.txt para englishinnovation.com.br
+# https://englishinnovation.com.br/robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://englishinnovation.com.br/sitemap.xml

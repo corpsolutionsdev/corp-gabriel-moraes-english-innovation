@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Moraes - English Innovation",
+  "short_name": "English Innovation",
+  "description": "Impulsione o seu futuro. Destrave seu potencial e da sua equipe com nossa metodologia inovadora de inglês.",
+  "start_url": "https://englishinnovation.com.br/",
+  "scope": "https://englishinnovation.com.br/",
+  "display": "standalone",
+  "background_color": "#1a1135",
+  "theme_color": "#5b29ac",
+  "orientation": "portrait-primary",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "src/img/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "src/img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
